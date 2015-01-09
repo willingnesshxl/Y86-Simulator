@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/D.png</file>
+        <file>images/E.png</file>
+        <file>images/eax.png</file>
+        <file>images/ebp.png</file>
+        <file>images/ebx.png</file>
+        <file>images/ecx.png</file>
+        <file>images/edi.png</file>
+        <file>images/edx.png</file>
+        <file>images/esi.png</file>
+        <file>images/esp.png</file>
+        <file>images/F.png</file>
+        <file>images/M.png</file>
+        <file>images/N.png</file>
+        <file>images/OF.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/SF.png</file>
+        <file>images/W.png</file>
+        <file>images/Y86.png</file>
+        <file>images/ZF.png</file>
+        <file>app.rc</file>
+        <file>images/fuckoffbitch.png</file>
+        <file>images/bg.png</file>
+        <file>images/Run.png</file>
+        <file>images/Run_2.png</file>
+        <file>images/Step-Forward-Hot-icon.png</file>
+        <file>images/Step-Forward-Normal-Orange-icon.png</file>
+        <file>images/a-plus-reset-free-icon.png</file>
+        <file>images/a-plus-reset-free-icon_2.png</file>
+        <file>images/stop.png</file>
+        <file>images/stop_2.png</file>
+    </qresource>
+</RCC>
